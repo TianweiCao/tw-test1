@@ -5,7 +5,7 @@ def foo(s):
 def test_foo():
   assert foo(10)==1
 
-  import numpy as np
+  
 # ============================================================
 # Defining your own functions here
 # ============================================================
